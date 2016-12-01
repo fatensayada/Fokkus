@@ -1,0 +1,9 @@
+/var
+/composer.lock
+/README.md
+/vendor
+/app/config/parameters.yml
+/build/
+/phpunit.xml
+/vendor/
+/web/bundles/
